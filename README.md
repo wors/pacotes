@@ -9,5 +9,22 @@
 <img src="https://img.shields.io/badge/desenvolvidos-1-blue"
 </p>
 
-## Introdução
+## :beginner: Introdução
 Este repositório servirá para armazenar pacotes voltados para linguagens de código aberto criados por mim.
+
+## :warning: Status do Projeto
+:construction: Projeto em construção :construction:
+   
+## :books: Bibliotecas do projeto
+- dateasy: Biblioteca que facilita a manipulação de datas.
+
+## :white_check_mark: Instalando as bibliotecas
+
+### Python :snake:
+**dateasy**:
+```
+pip install dateasy
+```
+	 
+## :globe_with_meridians: Tecnologias utilizadas:
+- Python
