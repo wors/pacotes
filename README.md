@@ -23,7 +23,7 @@ Este repositório servirá para armazenar pacotes voltados para linguagens de c�
 ### Python :snake:
 **dateasy**:
 ```
-pip install dateasy
+
 ```
 	 
 ## :globe_with_meridians: Tecnologias utilizadas:
